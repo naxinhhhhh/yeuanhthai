@@ -1,3 +1,4 @@
+//
 n = int(input())
 lst = []
 for i in range(n):
@@ -9,6 +10,7 @@ for v in lst:
 
 print(answer)
 
+//
 n = int(input())
 i = 1
 answer = 0
